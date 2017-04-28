@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 //user B changed
 #include <stdio.h>
 #include <string.h>
 #include <math.h> //user B changed
+=======
+//User A changed
+#include <stdio.h>
+#include <string.h>
+#include <math.h> //User A changed
+>>>>>>> 7922465895e07652932d3863007219ce267b8b97
 void main()
 { char Name[40], G[5], answer[10];
   int i;
