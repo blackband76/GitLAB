@@ -1,5 +1,7 @@
+//user B changed
 #include <stdio.h>
 #include <string.h>
+#include <math.h> //user B changed
 void main()
 { char Name[40], G[5], answer[10];
   int i;
